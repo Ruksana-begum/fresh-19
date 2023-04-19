@@ -7,3 +7,4 @@ else:
     print("odd")
 print("hello")
 print("good")
+print("ok")
